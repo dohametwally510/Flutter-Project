@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412373545501",
+    "project_id": "skinlesion-4cf4c",
+    "storage_bucket": "skinlesion-4cf4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412373545501:android:bc56aaeea307b5fa39ccf4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412373545501-i3916v1cssfupfetfrom1vpj50tap890.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3X3fNsMoe3IC-lNKNQnQAdYAd-ytSq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412373545501-i3916v1cssfupfetfrom1vpj50tap890.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
