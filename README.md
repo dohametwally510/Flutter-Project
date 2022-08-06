@@ -10,6 +10,5 @@ The use of the application depends on communicating with the user with the websi
 
 videa link :
 https://drive.google.com/file/d/15-dpp_vu_PLlFCAwqZsOFML62YSwfYIa/view?usp=sharing
-https://drive.google.com/file/d/15-dpp_vu_PLlFCAwqZsOFML62YSwfYIa/view?usp=sharing
-https://drive.google.com/file/d/15-dpp_vu_PLlFCAwqZsOFML62YSwfYIa/view?usp=sharing
+
 
